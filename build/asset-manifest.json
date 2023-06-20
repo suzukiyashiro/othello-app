@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.09110c6e.css",
-    "main.js": "/static/js/main.22f36c79.js",
-    "index.html": "/index.html",
-    "main.09110c6e.css.map": "/static/css/main.09110c6e.css.map",
-    "main.22f36c79.js.map": "/static/js/main.22f36c79.js.map"
+    "main.css": "/othello-app/static/css/main.09110c6e.css",
+    "main.js": "/othello-app/static/js/main.22f36c79.js",
+    "index.html": "/othello-app/index.html",
+    "main.09110c6e.css.map": "/othello-app/static/css/main.09110c6e.css.map",
+    "main.22f36c79.js.map": "/othello-app/static/js/main.22f36c79.js.map"
   },
   "entrypoints": [
     "static/css/main.09110c6e.css",
